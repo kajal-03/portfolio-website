@@ -1,4 +1,4 @@
-https://Kajal.ezynix.com
+https://kajal.ezynix.com
 
 # Portfolio Website
 
